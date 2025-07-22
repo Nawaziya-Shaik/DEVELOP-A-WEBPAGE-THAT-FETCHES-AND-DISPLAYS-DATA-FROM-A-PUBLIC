@@ -33,6 +33,10 @@ One of the most appreciated features in modern interfaces — **dark mode suppor
 - **Live Server (VS Code Extension)**: For testing and live-reloading the project locally during development.
 
 
+## Output
+<img width="1895" height="865" alt="Output" src="https://github.com/user-attachments/assets/c8237507-3e41-40fc-b45c-d1278569be31" />
+
+
 ## 🌍 Applicability
 
 The Weather Dashboard is an ideal tool for:
